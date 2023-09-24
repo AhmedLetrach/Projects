@@ -1,4 +1,4 @@
-# Project Overview
+# Projects Overview
 
 ## Gold Price Prediction using Random Forest Regressor
 
