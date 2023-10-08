@@ -49,4 +49,14 @@ The **Movie Recommendations** project focuses on recommending similar films base
 - Provide an interactive interface for users to explore and discover movie recommendations.
 
 ---
+## Insurance Cost Prediction using Machine Learning
+
+The **Insurance Cost Prediction** project utilizes machine learning techniques to predict insurance charges based on relevant features. By leveraging regression models such as Linear Regression, Support Vector Machine (SVM), and Random Forest, the project aims to develop an accurate predictive model for insurance costs.
+
+### Project Objectives:
+
+- Develop and implement regression models (Linear Regression, SVM, Random Forest) for predicting insurance charges.
+- Preprocess and analyze the insurance dataset to identify key features influencing the cost prediction.
+- Optimize the models to achieve the highest prediction accuracy and reliability.
+- Evaluate model performance and fine-tune parameters to enhance predictive capabilities.
 
